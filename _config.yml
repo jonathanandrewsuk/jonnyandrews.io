@@ -3,3 +3,49 @@ highlighter: rouge
 url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+# prose.io config
+prose:
+  media: 'assets/images'
+  ignore:
+  - 404.html
+  - LICENSE
+  - feed.xml
+  - _config.yml
+  - /_layouts
+  - /_includes
+  - /css
+  - /img
+  - /js
+  metadata:
+    _posts:
+    - name: “layout”
+      field:
+        element: “hidden”
+        value: “post”
+    - name: "title"
+      field:
+        element: "text"
+        label: "Post title"
+        placeholder: "Title"
+        alterable: true
+    - name: "description"
+      field:
+        element: "text"
+        label: "Short tagline"
+        placeholder: "A description of your post."
+        alterable: true
+    - name: "date"
+      field:
+        element: "text"
+        label: "Date"
+        help: "Enter date of post."
+        placeholder: "yyyy-mm-dd"
+        alterable: true
+        value: CURRENT_DATETIME
+    - name: "published"
+      field:
+        element: "checkbox"
+        label: "Publish"
+        help: "Check to publish post, uncheck to hide."
+        value: false

@@ -9,3 +9,9 @@
 body {
   border-top: 0px;
 }
+
+#blog-posts {
+  list-style-type: circle;
+}
+
+

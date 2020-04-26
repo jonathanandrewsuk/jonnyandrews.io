@@ -23,4 +23,8 @@ p, blockquote p, ul, ol, ul.posts li {
   margin-top: 20px;
 }
 
+img {
+  width: 100%;
+}
+
 

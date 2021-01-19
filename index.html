@@ -17,5 +17,25 @@
     display:flex;
     align-items: center;
     justify-content: center;
-  }
+    background: linear-gradient(218deg, #005792, #3cdbff);
+    background-size: 400% 400%;
+    -webkit-animation: BackgroundFade 14s ease infinite;
+    -moz-animation: BackgroundFade 14s ease infinite;
+    animation: BackgroundFade 14s ease infinite
+}
+@-webkit-keyframes BackgroundFade {
+    0%{background-position:84% 0%}
+    50%{background-position:17% 100%}
+    100%{background-position:84% 0%}
+}
+@-moz-keyframes BackgroundFade {
+    0%{background-position:84% 0%}
+    50%{background-position:17% 100%}
+    100%{background-position:84% 0%}
+}
+@keyframes BackgroundFade {
+    0%{background-position:84% 0%}
+    50%{background-position:17% 100%}
+    100%{background-position:84% 0%}
+}
 </style>

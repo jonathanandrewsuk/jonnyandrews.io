@@ -9,4 +9,10 @@ It's a classic situation, I've been working on a stack for work for while but my
 
 It's time to explore a new stack, the only way to do that it is to build something. (Ideally something small)
 
+| **Function** 	|**Tech**  			|  **Why**			|
+|---			|---				|---				|
+|  Front End	|  Next.js 			|  cool 			|
+|  Back End 	|  Node Typescript 	|  cool 			|
+|  Arcitecture 	|  Terraform - AWS 	|  cool 			|
+
 

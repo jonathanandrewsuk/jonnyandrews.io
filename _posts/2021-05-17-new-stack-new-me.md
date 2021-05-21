@@ -11,8 +11,7 @@ It's time to explore a new stack, the only way to do that it is to build somethi
 
 | **Function** 	|**Tech**  			|  **Why**			|
 |---			|---				|---				|
-|  Front End	|  Next.js 			|  cool 			|
-|  Back End 	|  Node Typescript 	|  cool 			|
-|  Arcitecture 	|  Terraform - AWS 	|  cool 			|
-
-
+|  Styling	|  Styled Components		|  Nice n Modular			|
+|  Front End	|  Next.js 			|  SEO Friendly 			|
+|  Back End 	|  Node Typescript 	|  Keep it JS, less mess with TS 			|
+|  Arcitecture 	|  Terraform - AWS 	|  Not as set on this one, I know I'll look at AWS but I'd rather stay out of that dashboard if possible 			|

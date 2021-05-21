@@ -19,7 +19,7 @@ It's time to explore a new stack, the only way to do that it is to build somethi
 
 ## Prototype plan
 1. Write business case
-2. Map out tools and technology (this blog post)
+2. Map out tools and technology 
 3. Create rough wireframes of the UI
 4. Sketch out Arcitecture
 5. Define API Structure

@@ -1,7 +1,7 @@
 ---
 date: '2021-05-17 21:14 -0400'
 published: true
-title: 'new stack, new me'
+title: 'Picking a stack'
 description: Picking a tech stack for a prototype build
 ---
 ## Picking a stack to experiment with

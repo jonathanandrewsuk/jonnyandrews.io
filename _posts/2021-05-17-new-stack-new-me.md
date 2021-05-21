@@ -1,6 +1,6 @@
 ---
 date: '2021-05-17 21:14 -0400'
-published: false
+published: true
 title: 'new stack, new me'
 description: Picking a tech stack for a prototype build
 ---
@@ -34,4 +34,3 @@ It's time to explore a new stack, the only way to do that it is to build somethi
 Having an API be consumed by a web app and a react native app is something that I've thought about a lot. 
 
 Maybe it will be a stretch too far (and 2 front ends to maintain afterwards) but I'll put it as a maybe for now. It should also keep me disciplined in **keeping my front ends dumb.**
-

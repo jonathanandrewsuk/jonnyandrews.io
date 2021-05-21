@@ -14,4 +14,5 @@ It's time to explore a new stack, the only way to do that it is to build somethi
 |  Styling	|  Styled Components		|  Nice n Modular			|
 |  Front End	|  Next.js 			|  SEO Friendly 			|
 |  Back End 	|  Node Typescript 	|  Keep it JS, less mess with TS 			|
+|  Database 	|  Mongo DB 	|  This could be airtable for ease of use, but I'd prefer less lock-in 			|
 |  Arcitecture 	|  Terraform - AWS 	|  Not as set on this one, I know I'll look at AWS but I'd rather stay out of that dashboard if possible 			|

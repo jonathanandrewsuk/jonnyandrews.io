@@ -6,6 +6,11 @@
 {% include css/layout.css %}
 {% include css/syntax.css %}
 
+h2 {
+  text-decoration: underline;
+}
+  
+
 body {
   border-top: 0px;
 }
@@ -30,4 +35,33 @@ img {
 .content {
   border-left: 0;
   padding:0;
+}
+
+table * {
+  position: relative;
+}
+table td, table th {
+  padding-left: 8px;
+}
+table thead tr {
+  height: 60px;
+  background: #36304a;
+}
+table tbody tr {
+  height: 50px;
+}
+table tbody tr:last-child {
+  border: 0;
+}
+table td, table th {
+  text-align: left;
+}
+table td.l, table th.l {
+  text-align: right;
+}
+table td.c, table th.c {
+  text-align: center;
+}
+table td.r, table th.r {
+  text-align: center;
 }

@@ -6,11 +6,16 @@
 {% include css/layout.css %}
 {% include css/syntax.css %}
 
+h1 {
+  font-size: 40px;
+}
+
 h2 {
-  text-decoration: underline;
+  font-weight: 700;
+  margin-top: 50px;
+  margin-bottom: 10px;
 }
   
-
 body {
   border-top: 0px;
 }

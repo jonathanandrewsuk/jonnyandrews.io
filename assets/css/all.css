@@ -20,7 +20,7 @@ body {
   border-top: 0px;
 }
 
-p, blockquote p, ul, ol, ul.posts li table {
+p, blockquote p, ul, ol, ul.posts li td {
   font-size: 24px;
   line-height: 36px;
 }

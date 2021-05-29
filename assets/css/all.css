@@ -48,7 +48,7 @@ img {
     max-width: 400px; 
   }
   
-  th td {
+  th, td {
     font-size: 12px;
   }
 }

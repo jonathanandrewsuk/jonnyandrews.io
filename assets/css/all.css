@@ -74,7 +74,6 @@ table td {
 
 table thead th {
     color: white;
-    font-size: 24px;
     background: #4FC3A1;
 }
 
@@ -125,7 +124,7 @@ table tr:nth-child(even) {
         overflow-x: hidden;
         overflow-y: auto;
         width: 120px;
-        font-size: 13px;
+        font-size: 24px;
         text-overflow: ellipsis;
     }
     table thead th {

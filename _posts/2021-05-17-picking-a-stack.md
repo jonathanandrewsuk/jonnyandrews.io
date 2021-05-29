@@ -1,7 +1,7 @@
 ---
 date: '2021-05-17 21:14 -0400'
 published: true
-title: 'Picking a stack'
+title: Picking a stack
 description: Picking a tech stack for a prototype build
 ---
 ## Picking a stack to experiment with
@@ -10,13 +10,11 @@ It's a classic situation, I've been working on a stack for work for while but my
 
 It's time to explore a new stack, the only way to do that it is to build something. (Ideally something small)
 
-| **Function** 	|**Tech**  			|  **Why**			|
-|---			|---				|---				|
-|  Styling	|  Styled Components		|  Nice n Modular			|
-|  Front End	|  Next.js 			|  SEO Friendly 			|
-|  Back End 	|  Node Typescript 	|  Keep it JS, less mess with TS 			|
-|  Database 	|  Mongo DB 	|  This could be airtable for ease of use, but I'd prefer less lock-in 			|
-|  Arcitecture 	|  Terraform - AWS 	|  Not as set on this one, I know I'll look at AWS but I'd rather stay out of that dashboard if possible 			|
+- Styled Components	- Nice n Modular
+- Next.js - SEO Friendly 	
+- Node Typescript - Keep it JS, less mess with TS
+- Mongo DB - This could be airtable for ease of use, but I'd prefer less lock-in
+- Terraform: AWS - Not as set on this one, I know I'll look at AWS but I'd rather stay out of that dashboard if possible
 
 ## Prototype plan
 1. Write business case

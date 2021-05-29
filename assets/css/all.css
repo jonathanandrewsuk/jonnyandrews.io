@@ -20,7 +20,7 @@ body {
   border-top: 0px;
 }
 
-p, blockquote p, ul, ol, ul.posts li {
+p, blockquote p, ul, ol, ul.posts, li {
   font-size: 24px;
   line-height: 36px;
 }
@@ -47,32 +47,6 @@ img {
     width: 100%;
     max-width: 400px; 
   }
-  
-  th, td {
-    font-size: 12px;
-  }
 }
 
-
-table{
-  width:100%;
-  table-layout: fixed;
-}
-
-th{
-  padding: 20px 0;
-  text-align: left;
-  font-weight: 500;
-  font-size: 24px;
-  text-transform: uppercase;
-}
-
-td{
-  padding: 20px 0;
-  text-align: left;
-  vertical-align:middle;
-  font-weight: 300;
-  font-size: 24px;
-  border-bottom: solid 1px black;
-}
 

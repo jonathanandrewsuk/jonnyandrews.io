@@ -8,7 +8,7 @@ description: The basic idea... bank statements
 
 After some thought, I've decided to focus my project on bank statements. They are a ubiquotis product that hasn't seen much change in my lifetime.
 
-I know this initial reveal of an idea isn't going to be knocking your socks off but that's the point. If I can make bank statements more accessible (from a usability point of view, or just from an engement point of view) then I ca see that being a useful service to lots of people.
+I know this initial reveal of an idea isn't going to be knocking your socks off but that's the point. If I can make bank statements more accessible (from a usability point of view, or just from an engement point of view) then I can see that being a useful service to lots of people.
 
 I know I said that profit wouldn't be top of mind, but my mind wanders in that direction. My thoughts is that this will be primarily a B2B product, I would provide this as an API or docker image for fintechs. **They can now offer accessible statements in their app/service!**
 
